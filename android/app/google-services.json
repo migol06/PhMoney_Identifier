@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "62539094069",
+    "project_id": "ph-currency",
+    "storage_bucket": "ph-currency.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62539094069:android:1bd686f115a25a58fab97c",
+        "android_client_info": {
+          "package_name": "com.example.glaucoma_identifier"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "62539094069-jtikv9ga26amq1ou7c45fl9pe2rrq8pb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzKKzbcWwpGSZBmenWJXnOQwRLrBGpzpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "62539094069-jtikv9ga26amq1ou7c45fl9pe2rrq8pb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
